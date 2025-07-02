@@ -51,7 +51,7 @@
 
   /* Custom properties for dark theme effects */
   :root {
-    --glow-primary: 0 173 219;
+    --glow-primary: 0 123 255;
     --glow-secondary: 79 209 197;
     --glow-accent: 255 107 53;
     --blur-bg: rgba(18, 18, 18, 0.8);
