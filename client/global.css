@@ -228,15 +228,15 @@
   }
 
   ::-webkit-scrollbar-track {
-    background: rgb(var(--background));
+    background: transparent;
   }
 
   ::-webkit-scrollbar-thumb {
-    background: rgba(var(--glow-primary), 0.5);
+    background: rgba(120, 120, 120, 0.2); /* neutral gray */
     border-radius: 4px;
   }
 
   ::-webkit-scrollbar-thumb:hover {
-    background: rgba(var(--glow-primary), 0.8);
+    background: rgba(120, 120, 120, 0.35); /* slightly darker on hover */
   }
 }
